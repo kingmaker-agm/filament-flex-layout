@@ -1,0 +1,33 @@
+{
+  "name": "kingmaker/filament-flex-layout",
+  "type": "library",
+  "version": "1.0.0",
+  "description": "The Flex layout for the Forms and Infolists components in Filament.",
+  "keywords": ["filament", "layout", "flex", "flexbox", "split", "forms", "infolists"],
+  "authors": [
+    {
+      "name": "Kingmaker",
+      "email": "b.g.pratheep.cool@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "filament/forms": "^v3.3",
+    "filament/infolists": "^v3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kingmaker\\FilamentFlexLayout\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Kingmaker\\FilamentFlexLayout\\FilamentFlexLayoutProvider"
+      ]
+    }
+  },
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}

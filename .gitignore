@@ -1,0 +1,10 @@
+# IDE
+.idea
+*.iml
+*.ipr
+
+# Vendor Files
+/vendor/
+
+# Package Publication
+composer.lock
