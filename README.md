@@ -1,6 +1,12 @@
 
 # Filament Flex Layout
 
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://packagist.org/packages/kingmaker/filament-flex-layout)
+![Packagist Downloads](https://img.shields.io/packagist/dm/kingmaker/filament-flex-layout)
+[![Filament 3.3+](https://img.shields.io/badge/Filament-v3.3%2B-fdae4b)](https://filamentphp.com/)
+![Tests](https://img.shields.io/badge/Tests-manual%20passing-green)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
+
 This package provides the **Flexbox** layout for the forms & infolists components in your Filament admin panel.
 
 
