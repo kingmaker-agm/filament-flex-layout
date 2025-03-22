@@ -1,7 +1,7 @@
 {
   "name": "kingmaker/filament-flex-layout",
   "type": "library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Flex layout for the Forms and Infolists components in Filament.",
   "keywords": ["filament", "layout", "flex", "flexbox", "split", "forms", "infolists"],
   "authors": [
