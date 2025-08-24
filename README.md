@@ -1,3 +1,6 @@
+> [!CAUTION]
+> For Filament v4+, use the native `Flex` layout component.
+
 
 # Filament Flex Layout
 
